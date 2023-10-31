@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VLCRTSP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SaveLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IpCam1" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">192.168.41.151</Value>
+    </Setting>
+    <Setting Name="IpCam2" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">192.168.41.152</Value>
+    </Setting>
+    <Setting Name="IpCam3" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">192.168.41.153</Value>
+    </Setting>
+    <Setting Name="IpCam4" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">192.168.41.154</Value>
+    </Setting>
+    <Setting Name="IpCam5" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">192.168.41.155</Value>
+    </Setting>
+    <Setting Name="IpCam6" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">192.168.41.156</Value>
+    </Setting>
+    <Setting Name="IpCam7" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">192.168.41.157</Value>
+    </Setting>
+    <Setting Name="IpCam8" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">192.168.41.158</Value>
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user01</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">abcd1234</Value>
+    </Setting>
+    <Setting Name="ViewLink" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/ch1/sub/av_stream</Value>
+    </Setting>
+    <Setting Name="CaptureLink" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/ISAPI/Streaming/channels/101/picture</Value>
+    </Setting>
+    <Setting Name="Station" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
